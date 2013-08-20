@@ -1,0 +1,7 @@
+mods:
+    background_attachment: fixed
+    background_color: ''
+    background_image: ''
+    background_position_x: left
+    background_repeat: repeat
+    header_textcolor: ''

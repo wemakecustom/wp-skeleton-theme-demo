@@ -1,0 +1,46 @@
+types:
+    slide:
+        wpcf-post-type: slide
+        labels:
+            name: Slides
+            singular_name: Slide
+            add_new: 'Add New'
+            add_new_item: 'Add New %s'
+            edit_item: 'Edit %s'
+            new_item: 'New %s'
+            view_item: 'View %s'
+            search_items: 'Search %s'
+            not_found: 'No %s found'
+            not_found_in_trash: 'No %s found in Trash'
+            parent_item_colon: 'Parent %s'
+            all_items: '%s'
+        slug: slide
+        description: 'Custom slides to appear on homepage’s carousel'
+        public: public
+        menu_position: ''
+        menu_icon: ''
+        taxonomies:
+            category: '1'
+        supports:
+            title: '1'
+            editor: '1'
+            thumbnail: '1'
+            custom-fields: '1'
+        rewrite:
+            custom: normal
+            slug: ''
+        show_in_menu: '1'
+        show_in_menu_page: ''
+        show_ui: '1'
+        publicly_queryable: '1'
+        can_export: '1'
+        show_in_nav_menus: '1'
+        query_var_enabled: '1'
+        query_var: ''
+        permalink_epmask: EP_PERMALINK
+        id: slide
+        hash: ''
+        __types_id: slide
+        __types_title: Slides
+        checksum: ''
+    __key: type

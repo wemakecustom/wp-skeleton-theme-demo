@@ -1,0 +1,5 @@
+plugins:
+    sitepress-multilingual-cms: WPML Multilingual CMS
+    # wpml-string-translation: WPML String Translation
+    # wpml-translation-analytics: WPML Translation Analytics
+    # wpml-translation-management: WPML Translation Management

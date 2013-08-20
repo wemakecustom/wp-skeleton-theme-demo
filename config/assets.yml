@@ -1,0 +1,13 @@
+js:
+    global:
+        url: <?php echo $theme_uri ?>/js/global.js
+        enqueue: 1
+        deps:
+            - jquery
+
+css:
+    global:
+        url: <?php echo $theme_uri ?>/css/global.css
+        enqueue: 1
+        deps:
+            - bootstrap # Change to bootstrap-combined if needed

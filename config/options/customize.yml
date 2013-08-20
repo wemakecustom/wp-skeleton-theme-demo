@@ -1,0 +1,8 @@
+blogdescription: 'Un site utilisant WordPress'
+blogname: 'WP Skeleton'
+page_for_posts: 0
+page_on_front: 0
+show_on_front: posts
+title_tagline:
+    separator: '|'
+    position: right

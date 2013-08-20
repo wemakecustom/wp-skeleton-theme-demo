@@ -1,0 +1,39 @@
+taxonomies:
+    test:
+        labels:
+            name: Tests
+            singular_name: Test
+            search_items: 'Search %s'
+            popular_items: 'Popular %s'
+            all_items: 'All %s'
+            parent_item: 'Parent %s'
+            parent_item_colon: 'Parent %s:'
+            edit_item: 'Edit %s'
+            update_item: 'Update %s'
+            add_new_item: 'Add New %s'
+            new_item_name: 'New %s Name'
+            separate_items_with_commas: 'Separate %s with commas'
+            add_or_remove_items: 'Add or remove %s'
+            choose_from_most_used: 'Choose from the most used %s'
+            menu_name: '%s'
+        slug: test
+        description: ''
+        public: public
+        hierarchical: flat
+        rewrite:
+            enabled: '1'
+            slug: ''
+            with_front: '1'
+            hierarchical: '1'
+        show_ui: '1'
+        show_in_nav_menus: '1'
+        show_tagcloud: '1'
+        query_var_enabled: '1'
+        query_var: ''
+        update_count_callback: ''
+        id: test
+        hash: ''
+        __types_id: test
+        __types_title: Tests
+        checksum: ''
+    __key: taxonomy

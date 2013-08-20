@@ -1,0 +1,22 @@
+fields:
+    date:
+        id: date
+        slug: date
+        type: date
+        name: Date
+        description: ''
+        data:
+            date_and_time: and_time
+            repetitive: '0'
+            validate:
+                required: { active: '1', value: 'true', message: 'Ce champ est requis' }
+                date: { active: '1', format: mdy, pattern: check.format, message: 'Veuillez saisir une date valide' }
+            conditional_display:
+                relation: AND
+                custom: ''
+            disabled_by_type: 0
+        __types_id: date
+        __types_title: Date
+        hash: ''
+        checksum: ''
+    __key: field

@@ -1,0 +1,19 @@
+groups:
+    test:
+        ID: test
+        post_content: test
+        post_title: test
+        post_excerpt: ''
+        post_type: wp-types-group
+        post_status: publish
+        meta:
+            _wp_types_group_post_types: all
+            _wp_types_group_terms: all
+            _wp_types_group_templates: all
+            _wpcf_conditional_display: 'a:2:{s:8:"relation";s:3:"AND";s:6:"custom";s:0:"";}'
+            _wp_types_group_fields: ',date,'
+        hash: ''
+        checksum: ''
+        __types_id: test
+        __types_title: test
+    __key: group
