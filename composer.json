@@ -12,8 +12,18 @@
     ],
     "require": {
         "wemakecustom/wp-skeleton-theme": "*",
+        "wpackagist-plugin/types": "*",
         "composer/installers": "~1.0"
     },
+    "suggest": {
+        "wp-plugins/sitepress-multilingual-cms": "Mutlilingual support"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://wpackagist.org"
+        }
+    ],
     "extra": {
         "installer-name": "wpskeleton-demo"
     }
